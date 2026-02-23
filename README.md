@@ -8,16 +8,10 @@ My curiosity about cybersecurity began from being genuinely astonished by cyberw
 
 ## 🎓 Academic Background
 
-I am currently studying the pre-degree program:
+I am currently studying *Tecnicatura Universitaria en Administración de Sistemas y Software Libre*.
 
-**Tecnicatura Universitaria en Administración de Sistemas y Software Libre**
-
-This program provided me with my foundational knowledge in:
-
-- Networking fundamentals
-- Linux systems
-- System administration principles
-- Software architecture basics
+You can view my academic progress here:
+➡️ [Academic Repository – Facultad](https://github.com/fransciscoreuque/facultad)
 
 Alongside my formal studies, I am completing the **Cisco Cybersecurity Essentials** course to strengthen my theoretical understanding of cyber threats, defense strategies, and security principles.
 
